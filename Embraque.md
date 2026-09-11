@@ -75,7 +75,7 @@ Il existe deux types de spinnaker :
 
 - le spinnaker asymmétrique. Il ressemble grandement à un foc, à la différence qu'il n'est pas sur un étai[^etai] : il n'a donc qu'un point d'écoute, et le point le plus bas en avant se nomme le point d'amure. À chaque empannage, on retourne le spinnaker. On "tangonne" le point d'amure sur le bout dehors, qui est dans l'axe du bateau et au niveau du pont.
 
-![Spinnaker asymmétrique](./images/spi_sym.jpg){ width=200 }
+![Spinnaker asymmétrique](./images/spi_asym.jpg){ width=200 }
 
 - le spinnaker symmétrique, qui nous intéresse ici. Il a une drisse[^drisse] et deux points d'écoute et doit conserver en permanence un angle constant par rapport au vent. En particulier, on ne le retourne pas lorsqu'on empanne. Le spinnaker symmétrique est tangonné et le tangon est accroché sur le mât, assez haut.
 
