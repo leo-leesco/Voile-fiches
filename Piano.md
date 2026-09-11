@@ -26,7 +26,7 @@ Pendant la route vers la zone de départ, on enverra la grand-voile sous la supe
 - le numéro 1 ne tire plus vers le bas, mais horizontalement vers lui
 - en relâchant, le piano ravale le mou
 
-![Arbalète](./images/arbalète.jpg){ width=300 }
+![Arbalète](./images/arbalete.jpg){ width=300 }
 
 ## Réglages fins
 
