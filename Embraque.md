@@ -5,7 +5,7 @@ language: french
 
 De manière générale, l'embraqueur est responsable du réglage des voiles d'avant, c'est-à-dire le génois et le spinnaker. Il agit donc sur les écoutes (de génois et de spinnaker), qui reviennent sur les winches latéraux pour le réglage.
 
-![Position des winches latéraux](./images/winches latéraux.jpg)
+![Position des winches latéraux](./images/winches_lat.jpg)
 
 # Les focs : le génois et le solent
 
@@ -75,11 +75,11 @@ Il existe deux types de spinnaker :
 
 - le spinnaker asymmétrique. Il ressemble grandement à un foc, à la différence qu'il n'est pas sur un étai[^etai] : il n'a donc qu'un point d'écoute, et le point le plus bas en avant se nomme le point d'amure. À chaque empannage, on retourne le spinnaker. On "tangonne" le point d'amure sur le bout dehors, qui est dans l'axe du bateau et au niveau du pont.
 
-![Spinnaker asymmétrique](./images/spi asym.jpeg){ width=200 }
+![Spinnaker asymmétrique](./images/spi_sym.jpg){ width=200 }
 
 - le spinnaker symmétrique, qui nous intéresse ici. Il a une drisse[^drisse] et deux points d'écoute et doit conserver en permanence un angle constant par rapport au vent. En particulier, on ne le retourne pas lorsqu'on empanne. Le spinnaker symmétrique est tangonné et le tangon est accroché sur le mât, assez haut.
 
-![Spinnaker symmétrique](./images/spi sym.jpg){ width=300 }
+![Spinnaker symmétrique](./images/spi_sym.jpg){ width=300 }
 
 [^etai]: c'est un câble d'acier sur lequel on monte les focs
 [^drisse]: c'est le nom générique des bouts qui permettent de monter les voiles en tête de mât
